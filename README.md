@@ -1,1 +1,1 @@
-# Example to connect Prometheus server from a Spring Boot application
+# Spring Boot example with Prometheus server configuration
